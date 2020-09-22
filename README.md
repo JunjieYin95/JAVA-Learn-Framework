@@ -1,2 +1,2 @@
-# JAVANotebbook
+# JAVANotebook
 A notebook of JAVA

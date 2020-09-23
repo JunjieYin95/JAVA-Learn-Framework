@@ -1,3 +1,2 @@
-# JAVANotebook
-A notebook of JAVA
-JAVA Learn Framework
+
+# JAVA Learn Framework
